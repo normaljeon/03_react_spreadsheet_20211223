@@ -36,7 +36,7 @@ const UseRefTest = () => {
           />
         </div>
 
-        <p>id111 : {id}</p>
+        <p>id : {id}</p>
 
         <div className="container_item">
           <p>비밀번호</p>
